@@ -5,6 +5,7 @@
       "blocks": {
         "template--18524574351677__38dfe495-c21a-4d8b-8b44-ac0381290be0-1681320917204c220b-0": {
           "type": "heading",
+          "disabled": true,
           "settings": {
             "heading": "Image banner",
             "heading_size": "h1"
@@ -12,6 +13,7 @@
         },
         "template--18524574351677__38dfe495-c21a-4d8b-8b44-ac0381290be0-1681320917204c220b-1": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "Give customers details about the banner image(s) or content on the template.",
             "text_style": "body"
@@ -19,6 +21,7 @@
         },
         "template--18524574351677__38dfe495-c21a-4d8b-8b44-ac0381290be0-1681320917204c220b-2": {
           "type": "buttons",
+          "disabled": true,
           "settings": {
             "button_label_1": "Button label",
             "button_link_1": "",
@@ -27,12 +30,18 @@
             "button_link_2": "",
             "button_style_secondary_2": false
           }
+        },
+        "23c1f147-01be-403a-8749-ec111dcdc0a8": {
+          "type": "email_form",
+          "settings": {
+          }
         }
       },
       "block_order": [
         "template--18524574351677__38dfe495-c21a-4d8b-8b44-ac0381290be0-1681320917204c220b-0",
         "template--18524574351677__38dfe495-c21a-4d8b-8b44-ac0381290be0-1681320917204c220b-1",
-        "template--18524574351677__38dfe495-c21a-4d8b-8b44-ac0381290be0-1681320917204c220b-2"
+        "template--18524574351677__38dfe495-c21a-4d8b-8b44-ac0381290be0-1681320917204c220b-2",
+        "23c1f147-01be-403a-8749-ec111dcdc0a8"
       ],
       "settings": {
         "image_overlay_opacity": 0,
